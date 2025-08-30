@@ -40,3 +40,5 @@ minikube ip + nodePort
 or minikube service command (which creates a proxy )
 
 kuctl apply -f <file.yaml> to exicute the files
+
+k8s used to run cluster deployment
