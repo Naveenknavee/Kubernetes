@@ -4,6 +4,6 @@ metadata:
   name: development
   labels:
     name: development
+    #adding new line
 #namespace addition in branch
 #and run the pod in  development namespace and deploy the pods into it
-#raising PR in main
