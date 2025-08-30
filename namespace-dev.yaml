@@ -5,3 +5,4 @@ metadata:
   labels:
     name: development
 #namespace addition in branch
+#and run the pod in  development namespace
