@@ -37,4 +37,6 @@ That’s why you need:
 
 minikube ip + nodePort
 
-or minikube service command (which creates a proxy
+or minikube service command (which creates a proxy )
+
+kuctl apply -f <file.yaml> to exicute the files
